@@ -13,7 +13,7 @@ $fn = 200;
 
 /* [Kit] */
 
-type = "multiboard_snap"; // [multiboard_snap:Multiboard Snap, connector:Connector]
+type = "multiboard_snap"; // [multiboard_snap:Multiboard Snap, connector:Connector, connector90:Connector 90°]
 
 
 /* [SMÅSNÖRE Outer Thread] */
@@ -85,6 +85,12 @@ if (type == "multiboard_snap") {
 }
 
 if (type == "connector") {
+  rotate(a = 180, v = [1, 1, 0]) {
+    outer_thread();
+  }
+}
+
+if (type == "connector90") {
   rotate(a = 180, v = [0, 1, 0]) {
     outer_thread();
   }
