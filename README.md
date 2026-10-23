@@ -16,17 +16,17 @@ OpenSCAD customizer to generate IKEA SMÅSNÖRE connectors:
 
 ### SMÅSNÖRE Multiboard Snap
 
-![SMÅSNÖRE Multiboard Snap Cover Picture](publishing/SMÅSNÖRE Multiboard Snap Cover.jpg)
+![SMÅSNÖRE Multiboard Snap Cover Picture](publishing/smasnoere-multiboard-snap-cover.jpg)
 [ [STL](exports/smasnoere-multiboard-snap.stl) | [3MF](exports/smasnoere-multiboard-snap.3mf) ]
 
-![SMÅSNÖRE Multiboard Snap Examples](publishing/SMÅSNÖRE%20Multiboard%20Snap%20Examples.jpg)
+![SMÅSNÖRE Multiboard Snap Examples](publishing/smasnoere-multiboard-snap-examples.jpg)
 
 ### SMÅSNÖRE Connector
 
-![SMÅSNÖRE Connector Cover Picture](publishing/SMÅSNÖRE Connector Cover.jpg)
+![SMÅSNÖRE Connector Cover Picture](publishing/smasnoere-connector-cover.jpg)
 [ [STL](exports/smasnoere-connector.stl) | [3MF](exports/smasnoere-connector.3mf) ]
 
-![SMÅSNÖRE Connector Details](publishing/SMÅSNÖRE Connector Details.jpg)
+![SMÅSNÖRE Connector Details](publishing/smasnoere-connector-details.jpg)
 
 
 ## Backlog
